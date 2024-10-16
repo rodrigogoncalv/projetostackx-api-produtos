@@ -141,6 +141,6 @@ O servidor retornará uma mensagem de erro 404 se o item não for encontrado par
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
-    <p>&nbsp&nbsp&nbspRafaelRaizer-Dev<br>
-    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RaizerTechDev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://raizertechdev-portfolio.netlify.app/">Portfólio</a>&nbsp;</p>
+    <p>&nbsp&nbsp&nbspRodrigoGonçalves-Dev<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=11959812223">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rodrigo-goncalves//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/rodrigogoncalv">GitHub</a>|&nbsp;<a href="">Portfólio</a>&nbsp;</p>https://github.com/rodrigogoncalv/projetostackx-api-produtos</a>
 </p>
